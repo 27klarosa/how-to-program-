@@ -1,1 +1,13 @@
-# how-to-program-
+# How to Program???
+
+## Question name
+How do I?
+
+### Answer
+Description...
+
+```js
+// Code
+```
+
+*Use that template for asking questions**
